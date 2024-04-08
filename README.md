@@ -2,4 +2,4 @@
 
 I used an embeded JavaScript code which is in the .html file
 
-just a tag to the repository
+just added a tag to the repository
